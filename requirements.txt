@@ -1,0 +1,13 @@
+## Libraries required:
+
+flexdashboard
+knitr
+DT
+rpivotTable
+ggplot2
+plotly
+dplyr
+openintro
+highcharter
+ggvis
+
